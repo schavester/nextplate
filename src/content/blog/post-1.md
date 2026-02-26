@@ -3,7 +3,8 @@ title: "The Jardinette Apartments: Will They Return from the Dead?"
 meta_title: "The Jardinette Apartments: Will They Return from the Dead?\n"
 description: "this is meta description"
 date: 2022-04-04T05:00:00.000Z
-image: "/images/image-placeholder.png"
+image: "/images/ab1cdfb759afb28adfead93060b00b5d60e93a8f-1423x1800-ezgif.com-av\
+  if-to-jpg-converter.jpg"
 categories:
   - Application
   - Data

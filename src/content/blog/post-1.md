@@ -13,6 +13,7 @@ tags:
   - nextjs
   - tailwind
 draft: false
+slug: jardinette
 ---
 ​
 

@@ -1,6 +1,5 @@
 {
   "file": "src/content/blog/post-2.md",
-  "name": "blog",
   "fileType": "md",
   "fmType": "yaml",
   "template": [
@@ -66,6 +65,15 @@
       "label": "Draft",
       "type": "boolean",
       "value": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "slug",
+      "label": "slug",
+      "type": "string",
+      "value": "",
+      "description": "",
+      "isRequired": false,
       "defaultValue": ""
     }
   ]

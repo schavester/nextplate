@@ -1,8 +1,8 @@
 ---
-title: "Hey, I am John Doe!"
+title: "Nathan Marsak"
 meta_title: "About"
-description: "this is meta description"
-image: "/images/image-placeholder.png"
+description: "This is about Nathan Marsak"
+image: "/images/nath-rip.jpeg"
 draft: false
 ---
 

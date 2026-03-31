@@ -15,7 +15,6 @@ draft: false
 ---
 # The Jardinette Apartments: Will They Return from the Dead?
 
-
 _Today we talk about the Jardinette Apartments; relatedly, C. C. de Vere of Empty Los Angeles wrote an excellent and important piece published today on the very subject, which I direct you to read_ [_here_](https://www.emptylosangeles.com/post/wtf-is-happening-to-the-jardinette-apartments)_._
 
 There’s something to be said for neglect; it lends a certain charm, does it not? Heck, I wrote [a whole book](https://live.staticflickr.com/65535/53222956338_714b8a794e_o.jpg) about a Los Angeles neighborhood that had fallen into cinematic disrepair. At my old house in New Orleans—“The City that Care Forgot”—I carefully cultivated an air of genteel dereliction. And while I admire French gardens for their order and symmetry, my own gardens are lush and rambling, on the English model—forlorn affairs, though fastidiously maintained to remain so, mind you.

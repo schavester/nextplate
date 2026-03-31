@@ -1,8 +1,12 @@
 ---
 title: "The Jardinette Apartments: Will They Return from the Dead?"
 meta_title: "The Jardinette Apartments: Will They Return from the Dead?"
-description: ""
-date: ""
+description: "The Jardinette Apartments article explores the uncertain fate of a
+  historic modernist building in East Hollywood. Designed by Richard Neutra in
+  1928-1930 at 5128 Marathon Street, it features 43 compact RSO units arranged
+  around a garden court, emphasizing light, efficiency, and modern living with
+  built-ins like Murphy beds."
+date: 2023-09-30T00:44:00.000Z
 image: "/images/jardinette.jpg"
 categories: []
 author: "nathan marsak"

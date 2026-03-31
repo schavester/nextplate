@@ -15,13 +15,6 @@ draft: false
 ---
 # The Jardinette Apartments: Will They Return from the Dead?
 
-![Nathan Marsak](https://cdn.sanity.io/images/1eqp3hod/production/cd1aa1ca59b0087aabd9a9cfa3765d65f05be12b-1920x1080.jpg?w=3840\&q=75\&fit=clip\&auto=format)
-
-Nathan Marsak
-
-September 29, 2023· 10 min read
-
-![Thumbnail](https://cdn.sanity.io/images/1eqp3hod/production/ab1cdfb759afb28adfead93060b00b5d60e93a8f-1423x1800.jpg?w=3840\&q=75\&fit=clip\&auto=format)
 
 _Today we talk about the Jardinette Apartments; relatedly, C. C. de Vere of Empty Los Angeles wrote an excellent and important piece published today on the very subject, which I direct you to read_ [_here_](https://www.emptylosangeles.com/post/wtf-is-happening-to-the-jardinette-apartments)_._
 
@@ -96,4 +89,3 @@ But again, _until that day…_
 ![ ](https://cdn.sanity.io/images/1eqp3hod/production/4a7c28ba1b6fec10e5bcd2c15012d11ed7a77118-1997x2400.jpg?w=3840\&q=75\&fit=clip\&auto=format)
 
 _Image #2,_ [_Mott Collection/California State Library_](https://csl.primo.exlibrisgroup.com/discovery/search?sortby=rank\&vid=01CSL_INST:CSL\&lang=en) _; #s3, 4 & 7_ [_Richard and Dion Neutra Papers_](https://digital.library.ucla.edu/catalog/ark:/21198/zz0008b9tw)_, UCLA; #s8 & 10_ [_Getty/Shulman_](https://primo.getty.edu/primo-explore/fulldisplay/dedupmrg2113161224/GRI)_._
-​
